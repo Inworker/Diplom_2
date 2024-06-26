@@ -1,4 +1,4 @@
-BASE_URL = "https://stellarburgers.nomoreparties.site/api/ingredients"
+BASE_URL = "https://stellarburgers.nomoreparties.site"
 GET_DATA_INGREDIENT_URL = "/api/ingredients"
 CREATE_ORDER_URL = "/api/orders"
 RESET_PASSWORD_URL = "/api/password-reset"
